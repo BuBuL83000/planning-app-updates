@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": "Nouveautes : categories, liens, fait, themes, stats, notes, objectifs, meteo 14j, marees, rappels, export/import",
   "pub_date": "2026-08-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVE50Sk1ZVGxzaVkra2JTRHJ5NHZEa0ZWcGZnWmtrWU80QzNMdmNvRkJXbjBDZytqTDBLa2pBTnY0aUsxMHlJajY4b1NDazJQRDFaYk51V2kzbXU0Y0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODIwNzkxCWZpbGU6UGxhbm5pbmcgQXBwXzEuMC40X3g2NF9lbi1VUy5tc2kuemlwCnd5emJOdXRZNVFlTUxhK2tJTmczY0d1elJ5bDhyWjdqelBhU05zU3liVWlkUlBaL2V5RHRpcmsxaGMyTGt0VlVkdmVQODhDcktIL0pUSmNhVnB6Z0FRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEo2QmxWKytidk9Mb2FIM21YSmRJUTRqQ3ZuVSt3R1BLVmVvdTZsdFRad2JaandtMUJQdmlkb0FDTm5NZlNqWnkwdVFYbHlZNzY0MHRITnEwR1prYUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODI0MjEzCWZpbGU6UGxhbm5pbmcgQXBwXzEuMC41X3g2NF9lbi1VUy5tc2kuemlwCi9Fbkk3Nkc3ZlBheTNHLzhJRmxLeG83WUVhU3NZU1hCUXVGalN4KzAwMklHVjVYNnVDNzg0V3c1THBld2x6dUs5VXVtaXV4MEo5THNrYktYTFBubUJ3PT0K",
       "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.4.msi.zip"
     }
   }
