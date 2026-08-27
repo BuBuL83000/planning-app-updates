@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Activation des mises à jour automatiques",
-  "pub_date": "2026-08-26T18:30:00Z",
+  "version": "1.0.4",
+  "notes": "Nouveautes : categories, liens, fait, themes, stats, notes, objectifs, meteo 14j, marees, rappels, export/import",
+  "pub_date": "2026-08-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVE50Sk1ZVGxzaVkra2JTRHJ5NHZEa0ZWcGZnWmtrWU80QzNMdmNvRkJXbjBDZytqTDBLa2pBTnY0aUsxMHlJajY4b1NDazJQRDFaYk51V2kzbXU0Y0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODIwNzkxCWZpbGU6UGxhbm5pbmcgQXBwXzEuMC40X3g2NF9lbi1VUy5tc2kuemlwCnd5emJOdXRZNVFlTUxhK2tJTmczY0d1elJ5bDhyWjdqelBhU05zU3liVWlkUlBaL2V5RHRpcmsxaGMyTGt0VlVkdmVQODhDcktIL0pUSmNhVnB6Z0FRPT0K",
-      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.3.msi.zip"
+      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.4.msi.zip"
     }
   }
 }
