@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "Nouveau systeme de mise a jour automatique fiable",
-  "pub_date": "2026-08-27T18:00:00Z",
+  "version": "1.0.9",
+  "notes": "Nouveaux modules Nutrition et Sport accessibles depuis le menu. Stockage des donnees securise sur disque. Correction du bouton Modifier, des durees d evenements et des rappels.",
+  "pub_date": "2026-08-31T11:34:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEtLc0hMVDNJblV1anA4K2RpQlNKT2FSZzFtdHkxc2pzeUNoVlVDVUtBcm54UXgrSDN4S25zWHdhbXpjcFV1S2NlR0pkOEVqYS8yZXBLVUVqRFlEV2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODM2NTg0CWZpbGU6UGxhbm5pbmcgQXBwXzEuMC44X3g2NF9lbi1VUy5tc2kuemlwClJkbnlUZUlueU8rczNoejJ1QmhhT1VFTFV4cXJVTWg2blJqenBwNlZNdmdoZU80QW1DM2FweTNDc1lWRHZPNlNGdnlwWG5YdC9QWk5TVDUrZWxENEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.8.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEtvS3lzOHpreWZPWkxMeUhpNXBUREMwWVQ3bEc1Tzh4WlhvbzgxaTFCUEVKZnBJb1NuR2hRVzd1djd1a0MxUG0vaDh5N2ptbGxIVno3Zm9HZXdsb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTc2MDM0CWZpbGU6UGxhbm5pbmcgQXBwXzEuMC45X3g2NF9lbi1VUy5tc2kuemlwCkJIU0VrTFJWblpkZmhMVGpWNVhXaFBvMjRIUi8wRVVGTXhyK09sL0RROTFleTFVSE1lMTVBajR0SVNNU3NKSUI2eDB3UjNaWFFmVnJ4dFlmV1ZyZkFRPT0K",
+      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.9.msi.zip"
     }
   }
 }
