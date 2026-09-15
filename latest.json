@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Nouveaux modules Nutrition et Sport accessibles depuis le menu. Stockage des donnees securise sur disque. Correction du bouton Modifier, des durees d evenements et des rappels.",
-  "pub_date": "2026-08-31T11:34:57Z",
+  "version": "1.1.0",
+  "notes": "Nouvel onglet Sport : coach Claude connecte, kilometres et allure pour la course, zones de frequence cardiaque personnalisables, programme d'entrainement importe. Nouveau menu Nutrition/Sport/Planning. Corrections de bugs et stockage securise.",
+  "pub_date": "2026-09-15T17:05:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEtvS3lzOHpreWZPWkxMeUhpNXBUREMwWVQ3bEc1Tzh4WlhvbzgxaTFCUEVKZnBJb1NuR2hRVzd1djd1a0MxUG0vaDh5N2ptbGxIVno3Zm9HZXdsb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTc2MDM0CWZpbGU6UGxhbm5pbmcgQXBwXzEuMC45X3g2NF9lbi1VUy5tc2kuemlwCkJIU0VrTFJWblpkZmhMVGpWNVhXaFBvMjRIUi8wRVVGTXhyK09sL0RROTFleTFVSE1lMTVBajR0SVNNU3NKSUI2eDB3UjNaWFFmVnJ4dFlmV1ZyZkFRPT0K",
-      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.0.9.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEFTQzRpenJRYVVoL0NIclVNK1o3Vyt1VU9nZmR5M0JENnFsK3BIS0lyS0tJSmVmV1NZQ0o0ZkYxZzcxTFNNbVFBQVRUUmdjL1laVmI2K21wQmx5WVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDkxNzkxCWZpbGU6UGxhbm5pbmcgQXBwXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwClJFSHhaMDNnOStPRUlXd2hTV2NWSkhERUNneFViZVFOL0N3K2hiem9Lait2cWpmeEEvYlNXZ2F2VjJqZUpTdUlGNWxMT2M0cE5sN1FHek56R29ZcEFRPT0K",
+      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.1.0.msi.zip"
     }
   }
 }
