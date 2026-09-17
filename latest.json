@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Nouvel onglet Sport : coach Claude connecte, kilometres et allure pour la course, zones de frequence cardiaque personnalisables, programme d'entrainement importe. Nouveau menu Nutrition/Sport/Planning. Corrections de bugs et stockage securise.",
-  "pub_date": "2026-09-15T17:05:43Z",
+  "version": "1.1.1",
+  "notes": "Onglet Sport : le coach devient « Envoyer a Claude », un envoi unique de vos donnees (profil, zones FC, tests, seances) qui renvoie l'analyse et la mise a jour proposee du programme.",
+  "pub_date": "2026-09-17T17:25:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEFTQzRpenJRYVVoL0NIclVNK1o3Vyt1VU9nZmR5M0JENnFsK3BIS0lyS0tJSmVmV1NZQ0o0ZkYxZzcxTFNNbVFBQVRUUmdjL1laVmI2K21wQmx5WVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDkxNzkxCWZpbGU6UGxhbm5pbmcgQXBwXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwClJFSHhaMDNnOStPRUlXd2hTV2NWSkhERUNneFViZVFOL0N3K2hiem9Lait2cWpmeEEvYlNXZ2F2VjJqZUpTdUlGNWxMT2M0cE5sN1FHek56R29ZcEFRPT0K",
-      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.1.0.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZytlQTBnNGRkVEc2eTJ2VmllUWRrU1NVMUY1TXJPaFhTa3RKb2NtTDhjaVVzdmx2cFVnOG9ZSG9mbG5ZaUZ4bXZwUng2N3Jzem5TZ0RNNFdTTUdhQUoyY2k4NE5SQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY1OTUzCWZpbGU6UGxhbm5pbmcgQXBwXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCmRtY0VLNjJ5VjMvajZmRU1IeDcrUmw2MGxZdlpuc1RhaVpkaHlyTm1CRDNzYit6Z1puKzJFcXZzekphY1JidUZZR2loRUtUa3oycDJiZ2Z4d1ZLL0RRPT0K",
+      "url": "https://raw.githubusercontent.com/BuBuL83000/planning-app-updates/main/planning-app-1.1.1.msi.zip"
     }
   }
 }
